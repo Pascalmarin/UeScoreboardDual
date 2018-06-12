@@ -5,7 +5,7 @@
 
 -  5.23.17
     + Material Design Android
-        * Updated Tabs
+        * Updated Tabs OK123456
 
 -  3.29.17
     + iOS10 Alpha
@@ -32,8 +32,8 @@ Hello There! We got tired of not having good axure widgets to design apps with. 
 <br>
 
 # How to use it?
-1. You should install [Roboto for Android](https://material.io/guidelines/resources/roboto-noto-fonts.html) and [San Francisco for iOS.](https://developer.apple.com/fonts/) 
-2. Download the Axure library file: 
+1. You should install [Roboto for Android](https://material.io/guidelines/resources/roboto-noto-fonts.html) and [San Francisco for iOS.](https://developer.apple.com/fonts/)
+2. Download the Axure library file:
 	- [UXTOOLTIME Android Material Design for Axure](https://github.com/iamkeeler/UXTOOLTIME/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)")
 	- [UXTOOLTIME iOS 8 for Axure](https://github.com/iamkeeler/UXTOOLTIME/raw/master/UXTT-iOS8-V1-1.rplib "Just download it already ;)")
 3. Open Axure, click the three bars icon and choose "Load Library". Find the library file you downloaded to load it.
