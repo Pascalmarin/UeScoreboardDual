@@ -1,11 +1,11 @@
 ![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)
 
 # 'UeScoreboardDual' Description
-###Name
+### Name
 UeScoreboardDual<br>
-###Used for
+### Used for
 Retransmisiones deportivas de deportes de equipo.<br>
-###Dependencies
+### Dependencies
 Es una variante horizontal de  [Uescoreboard](https://github.com/Pascalmarin/mytest_repo)
 
 
