@@ -1,26 +1,26 @@
 ![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)
 
-# Component Description
+# 'UeScoreboardDual' Description
 Name: UeScoreboardDual<br>
 Used for: Retransmisiones deportivas de deportes de equipo.<br>
 Dependencies: Es una variante horizontal de  [Uescoreboard](https://github.com/Pascalmarin/mytest_repo)
 
 
-# Component Layout
+## Component Layout
 ![](https://github.com/Pascalmarin/mytest_repo/blob/master/u34.png)
 
-# Prototipo UX
+## Prototipo UX
 https://2905w9.axshare.com
 
-# Guía de Estilo
+## Guía de Estilo
 https://guiasdezeplin
 
-# Guía de Patrocinio
+## Guía de Patrocinio
 No
-# Accesibilidad
+## Accesibilidad
 https://acc_uescoreboard
 
-# Change Log (last three updates)
+## Change Log (last three updates)
 
 -  5.23.17
     + Material Design Android
