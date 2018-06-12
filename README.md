@@ -1,5 +1,8 @@
 ![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)
 
+# Apariencia del componente
+![](https://github.com/Pascalmarin/mytest_repo/blob/master/u34.png)
+
 
 # Change Log (last three updates)
 
