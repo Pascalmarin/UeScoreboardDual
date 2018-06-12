@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)
 
 # Component data
-Name: UeScoreboardDual
-Used for: Retransmisiones deportivas de deportes de equipo.
+Name: UeScoreboardDual<br>
+Used for: Retransmisiones deportivas de deportes de equipo.<br>
 Dependencies: Es una variante horizontal de  [Uescoreboard](https://github.com/Pascalmarin/mytest_repo)
 
 
