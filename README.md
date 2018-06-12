@@ -5,7 +5,7 @@
 
 -  5.23.17
     + Material Design Android
-        * Updated Tabs OK123456
+        * Updated Tabs Otro mas
 
 -  3.29.17
     + iOS10 Alpha
