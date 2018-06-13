@@ -27,20 +27,3 @@ No se contempla la posibilidad de patrocinio para este componente.
 
 ## Accesibilidad
 https://acc_uescoreboard
-
-## Change Log (last three updates)
-
--  5.23.17
-    + Material Design Android
-        * Updated Tabs Otro mas
-
--  3.29.17
-    + iOS10 Alpha
-        * Finished Table Cells
-        * Added Section Header
-        * Added Editing Menus
-
-- 3.27.17
-    + iOS10 Alpha
-        * Added Sliders
-        * Started on Table Cells
