@@ -1,4 +1,4 @@
-*![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)*
+![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)
 
 # UeScoreboardDual
 ## Description
@@ -7,7 +7,7 @@ UeScoreboardDual<br>
 ### Used for
 Retransmisiones deportivas de deportes de equipo.<br>
 ### Dependencies
-Es una variante horizontal de  [Uescoreboard](https://github.com/Pascalmarin/mytest_repo)
+Es una variante horizontal de el componente  [Uescoreboard](https://github.com/Pascalmarin/mytest_repo)
 
 
 ## Component Layout
@@ -15,6 +15,9 @@ Es una variante horizontal de  [Uescoreboard](https://github.com/Pascalmarin/myt
 
 ## Prototipo UX
 https://2905w9.axshare.com
+
+## Diseño Visual
+https://invisionapp.com
 
 ## Guía de Estilo
 https://guiasdezeplin
