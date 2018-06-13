@@ -24,18 +24,18 @@ translation authors keep things up-to-date.
 ### Removed
 - Section about "changelog" vs "CHANGELOG".
 
-## [0.3.0] - 2015-12-03
+## 2015-12-03
 ### Added
 - RU translation from @aishek.
 - pt-BR translation from @tallesl.
 - es-ES translation from @ZeliosAriex.
 
-## [0.2.0] - 2015-10-06
+## 2015-10-06
 ### Changed
 - Remove exclusionary mentions of "open source" since this project can
 benefit both "open" and "closed" source projects equally.
 
-## [0.1.0] - 2015-10-06
+## 2015-10-06
 ### Added
 - Answer "Should you ever rewrite a change log?".
 
@@ -43,7 +43,7 @@ benefit both "open" and "closed" source projects equally.
 - Improve argument against commit logs.
 - Start following [SemVer](https://semver.org) properly.
 
-## [0.0.8] - 2015-02-17
+## 2015-02-17
 ### Changed
 - Update year to match in every README example.
 - Reluctantly stop making fun of Brits only, since most of the world
