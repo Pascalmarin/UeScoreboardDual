@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)
+<!-- ![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png) -->
 
 # UeScoreboardDual
 ## Description
