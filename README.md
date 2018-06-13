@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)
 
-# 'UeScoreboardDual' Description
+# UeScoreboardDual
+## Description
 ### Name
 UeScoreboardDual<br>
 ### Used for
