@@ -67,13 +67,13 @@ benefit both "open" and "closed" source projects equally.
 ### Added
 - README section on "yanked" releases.
 
-## [0.0.5] - 2014-08-09
+## 2014-08-09
 ### Added
 - Markdown links to version tags on release headings.
 - Unreleased section to gather unreleased changes and encourage note
 keeping prior to releases.
 
-## [0.0.4] - 2014-08-09
+## 2014-08-09
 ### Added
 - Better explanation of the difference between the file ("CHANGELOG")
 and its function "the change log".
