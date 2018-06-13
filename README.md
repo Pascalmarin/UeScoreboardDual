@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)
+*![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)*
 
 # UeScoreboardDual
 ## Description
@@ -20,7 +20,8 @@ https://2905w9.axshare.com
 https://guiasdezeplin
 
 ## Guía de Patrocinio
-No
+No se contempla la posibilidad de patrocinio para este componente.
+
 ## Accesibilidad
 https://acc_uescoreboard
 
