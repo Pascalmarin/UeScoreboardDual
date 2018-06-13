@@ -17,13 +17,13 @@ Es una variante horizontal de el componente  [Uescoreboard](https://github.com/P
 https://2905w9.axshare.com
 
 ## Diseño Visual
-https://invisionapp.com
+https://invis.io/TEKTIWH5PMU#/300905249_Viewport
 
 ## Guía de Estilo
-https://guiasdezeplin
+https://zpl.io/VDnM8Wb
 
 ## Guía de Patrocinio
 No se contempla la posibilidad de patrocinio para este componente.
 
 ## Accesibilidad
-https://acc_uescoreboard
+https://accuescoreboard
